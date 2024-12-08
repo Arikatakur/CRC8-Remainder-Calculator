@@ -145,7 +145,7 @@ Contributions are welcome! If you find any issues or have ideas for improvements
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Arikatakur/CRC8-Remainder-Calculator/tree/main?tab=MIT-1-ov-file) file for details.
 
 ---
 
