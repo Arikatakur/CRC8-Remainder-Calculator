@@ -35,7 +35,7 @@ A simple C program to compute the CRC8 remainder for a binary input using the po
    ```
 3. Compile the program:
    ```bash
-   gcc -o crc8 crc8.c
+   gcc -o crc8 crc8-calculator.c
    ```
 
 ---
