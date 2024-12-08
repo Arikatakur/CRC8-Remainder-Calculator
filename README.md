@@ -19,4 +19,4 @@ A simple C program to compute the CRC8 remainder for a binary input using the po
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/CRC8-Remainder-Calculator.git
+   git clone https://github.com/Arikatakur/CRC8-Remainder-Calculator.git
